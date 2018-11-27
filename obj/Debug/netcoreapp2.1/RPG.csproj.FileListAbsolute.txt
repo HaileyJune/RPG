@@ -1,0 +1,11 @@
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\RPG\bin\Debug\netcoreapp2.1\RPG.deps.json
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\RPG\bin\Debug\netcoreapp2.1\RPG.runtimeconfig.json
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\RPG\bin\Debug\netcoreapp2.1\RPG.runtimeconfig.dev.json
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\RPG\bin\Debug\netcoreapp2.1\RPG.dll
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\RPG\bin\Debug\netcoreapp2.1\RPG.pdb
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.csprojAssemblyReference.cache
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.AssemblyInfoInputs.cache
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.AssemblyInfo.cs
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.dll
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.pdb
